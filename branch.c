@@ -4,6 +4,7 @@ int main()
 {
 	printf("Hello master!\n");
 	printf("Hello branch_1!\n");
+	printf("Hello branch_2!\n");
 
 	return 0;
 }
